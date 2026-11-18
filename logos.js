@@ -31,5 +31,5 @@ window.WRI_ORGS = [
   {"name":"Union Pacific","type":"Railroad","aliases":"UP|UPRR","file":"union-pacific.png","updated":"2026-11-17"},
   {"name":"USFS","type":"Agency","aliases":"US Forest Service|Forest Service","file":"usfs.png","updated":"2026-11-17"},
   {"name":"Washington Ecology","type":"Agency","aliases":"WA Ecology|Dept of Ecology|WDOE","file":"wa-ecology.png","updated":"2026-11-17"},
-  {"name":"WRI","type":"Contractor","aliases":"Whitewater Rescue Institute|Whitewater Rescue","file":"wri.png","updated":"2026-11-17"}
+  {"name":"WRI","type":"Contractor","aliases":"Whitewater Rescue Institute|Whitewater Rescue","file":"wri.png","updated":"2026-11-18"}
 ];
